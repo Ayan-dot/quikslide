@@ -41,3 +41,9 @@ We also learned:
 ## What's next for QuikSlide
 
 We're excited to expand QuikSlide by increasing the configurations and slide templates that can be produced by our application. For example, we're looking to expand the theming available for our slideshows and adding company specific theming that adheres to design guidelines as well as expanding the generated content, through the addition of more variable templating and adding functionality for graphs and custom images. We also want to expand the natural language processing component so we can create more impactful slides—such as slides that focus on numbers—as well as more concisely shorten the summary of the script and automatically make bullet points more grammatically correct. Our vision for Quikslide is for it to become a product used by millions worldwide and which saves billions of hours of time and resources.
+
+## The Team
+
+Malav Mehta 
+Ayan Hafeez 
+Edward Li
